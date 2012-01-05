@@ -28,7 +28,7 @@ This list includes publications from 2009-2011. See <http://works.bepress.com/gk
 
 1. George K. Thiruvathukal, *Beyond CiSE and Back to the Future*, Computing in Science and Engineering, vol. 13, no. 3, pp. 4-5, May/June 2011, doi:10.1109/MCSE.2011.44, <http://ecommons.luc.edu/cs_facpubs/18/>.
 
-1. George K. Thiruvathukal, *Novel Architectures and Accelerators*, Computing Now, http://www.computer.org/portal/web/computingnow/archive/february2011, <http://ecommons.luc.edu/cs_facpubs/54/>.
+1. George K. Thiruvathukal, *Novel Architectures and Accelerators*, Computing Now, <http://www.computer.org/portal/web/computingnow/archive/february2011>,
 
 1. Konstantin Läufer, George K. Thiruvathukal, David Dennis, *Moving Academic Department Functions to Social Networks and Clouds: Initial Experiences*, Computing in Science and Engineering, vol. 13, no. 5, pp. 84-89, Sep./Oct. 2011, doi:10.1109/MCSE.2011.85, <http://ecommons.luc.edu/cs_facpubs/19/>.
 
