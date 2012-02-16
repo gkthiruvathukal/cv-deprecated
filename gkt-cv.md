@@ -32,6 +32,10 @@
 |2004-2010      |Associate Professor of   |Loyola University Chicago|
 |               |Computer Science         |                         |
 +---------------+-------------------------+-------------------------+
+|2001-2004      |Visiting Associate       |Loyola University Chicago| 
+|               |Professor of Computer    |                         |
+|               |Science                  |                         |
++---------------+-------------------------+-------------------------+
 |1999-2008      |Visiting Scholar in      |Northwestern University  |
 |               |Electrical and Computer  |                         |
 |               |Engineering              |                         |
@@ -44,7 +48,7 @@
 |               |Scientist                |Laboratory MCS Division  |
 +---------------+-------------------------+-------------------------+
 |1996-1997      |Lecturer of Computer     |Illinois Institute of    |
-|               |Scientist                |Technology               |
+|               |Scientis                 |Technology               |
 +---------------+-------------------------+-------------------------+
 
 ## Industry Positions
@@ -78,6 +82,7 @@
     Laboratory, Mathematics and Computer Science Division (one of 26
     students selected competitively from a national pool of nearly 90
     pre-Ph.D. graduate students)
+	
 # Dissertation
 
 Title
@@ -85,6 +90,7 @@ Title
 
 Advisor
   ~ Professor Thomas W. Christopher
+  
 # Publications
 
 This list includes publications from 2009-2011. See <http://works.bepress.com/gkthiruvathukal> for all publications.
