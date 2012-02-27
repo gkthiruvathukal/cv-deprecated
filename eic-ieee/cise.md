@@ -1,17 +1,22 @@
-Please consider me for the Editor in Chief (EIC) position at Computing
-in Science and Engineering (CISE) Magazine. As an interdisciplinary
-computer scientist, I believe my background, interests, and activities
-are ideally suited to the expectations and responsibilities of an EIC.
+This is my application for the position of Editor in Chief (EIC)
+position at Computing in Science and Engineering (CISE) Magazine. 
 
-In terms of specific editorial experience, I have been responsible for
-leading the direction of the Scientific Programming department since
-Paul Dubois retired in 2001. In this role, I have been successful at
-striking a balance between writing and soliciting high-quality articles
-for the Department. Over the past year in particular, my co-editor,
-Konstantin Läufer, and I have been successful to shift the focus from
-having to author and solicit articles ourselves to one where where
-authors actively seek out opportunities to write for us.
+I've been officially connected to CiSE since 2004 and unofficially
+since 2002.
 
+I wrote my first article, *Java at Middle Age: Enabling Java for
+Computational Science* <http://ecommons.luc.edu/cs_facpubs/46/> for
+CiSE in 2002 at the invitation of Paul Dubois, the longtime and
+popular editor of the *Scientific Programming* department.  Not long
+after appearing in CiSE, Paul Dubois asked me to serve as the
+department editor. Being a person who knows the amount of work it
+takes to produce good content, I initially hesitated, but officially
+joined CiSE in 2004, where I served since 2009. I'd like to think that
+my tenure as the department editor continued the excellent tradition
+of quality that Paul was able to maintain over 20+ year period.
+
+When Norman Chonacky became the Editor-in-Chief, he called upon me to
+step into more strategic and leadership ro
 In addition to the Scientific Programming department, which continues to
 generate significant interest among readers, I have also been
 influential in organizing special issues. I was the guest editor of a
