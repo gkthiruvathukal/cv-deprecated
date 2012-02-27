@@ -6,4 +6,4 @@ pandoc --template=luc.tex \
    --variable line2="Line 2" \
    --variable line3="Line 3" \
    --variable line4="Line 3" \
-   application.text  -o application.pdf
+   cise.md -o cise.pdf
