@@ -1,3 +1,5 @@
 #!/bin/bash
 
-pandoc --template=fullpage.tex computingnow.md -o computingnow.pdf
+pandoc --variable person="So and so" --template=luc.tex computingnow.md -o computingnow.tex
+
+pandoc --variable person="So and so" --template=luc.tex computingnow.md -o computingnow.pdf
