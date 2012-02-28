@@ -1,27 +1,4 @@
-# EIC Application
-
-## Qualifications
-
-For full details of my work and record as a scholar/researcher, please
-see my attached CV. The following qualifications and experience
-directly support my candidacy for the EIC position.
-
-Academics
-
-- Full Professor of Computer Science
-- Co-Director, Center for Textual Studies and Digital Humanities
-- Loyola University Chicago
-
-IEEE CS Volunteer Service
-
-- Associate Editor in Chief, CISE
-- Associate Editor in Chief, Computing Now
-- At Large (Voting) Member, Publications Board
-- Co-chair, the new STC on Social Networking
-
-## Statement
-
-This document is my initial input to the process to select the next
+This is my initial input to the process to select the next
 editor in chief (EIC) of Computing Now, the online initiative of the Computer
 Society in which I have served for 4 years as one of the associate EICs, where
 I was appointed by the current EIC, Dejan Milojicic.
