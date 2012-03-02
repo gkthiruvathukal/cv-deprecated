@@ -192,10 +192,11 @@ Awarded 2010, S. Jones, G. K. Thiruvathukal, E. English, and …, Digitizing the
 
 ## Other Professional Service
 
--   *Editorial Board*, IEEE Computing Now, 2008-Present, Regular blogger
+-   Associate Editor, IEEE Computing Now, 2008-Present
     for IEEE’s new online portal.
 -   Associate Editor, CISE Magazine, 2008-Present.
--   *Department Editor, CISE Magazine*, 2004-Present, Regular columnist
+-   At Large Member, Publications Board, IEEE Computer Society
+-   *Department Editor, CISE Magazine*, 2004-2008, Regular columnist
     and co-editor with Paul Dubois of the Scientific Programming column.
 -   *Guest Editor, CISE Magazine*, March/April 2005, Special Issue on
     Cluster Computing.
