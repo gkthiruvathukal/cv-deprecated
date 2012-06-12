@@ -1,8 +1,31 @@
 # Publications
 
-This list includes publications from 2009-2011. See <http://works.bepress.com/gkthiruvathukal> for all publications.
+## Books
+      
+1. Codename Revolution: The Nintendo Wii Platform, MIT Press, 2012.
 
+1. High-Performance Java Platform Computing, Prentice Hall PTR and Sun Microsystems
+   Press, 2000, <http://hpjpc.googlecode.com/>. The JHPC class library included with
+   this book is cited in JSR-166 (see <http://jcp.org/en/jsr/detail?id=166>).
+   
+1. Web Programming in Python: Techniques for Integrating Linux, Apache Web Server,
+   and MySQL, Prentice Hall PTR, 2002.   
+
+## Online Books/Lectures
+
+The following are available in PDF, ePub, and HTML and will result in eventual 
+publication. They also serve as a demonstration of my work with open source
+publishing tools.
+
+1. George K. Thiruvathukal and Andrew N. Harrington, Introduction to Computer Science,
+   <http://introcs.courses.thiruvathukal.com>.
+
+1. Joe Kaylor and George K. Thiruvathukal, Introduction to Operating Systems,
+   <http://osdi.courses.thiruvathukal.com>.
+   
 ## Peer-Reviewed Conference Proceedings
+
+This list includes publications from 2009-2011. See <http://works.bepress.com/gkthiruvathukal> for all publications.
 
 1. Steven E. Jones and George K. Thiruvathukal, *Platform Studies and the Construction of Game Space: The Nintendo Wii as a social platform*, <http://chicagocolloquium.org/wp-content/uploads/2011/11/dhcs2011_submission_27.pdf>.
 

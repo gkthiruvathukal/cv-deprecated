@@ -1,4 +1,4 @@
-# Preparation
+# Education
 
 +---------------+------------------------------------+--------------------+
 |1988           |B.A. in Computer Science and Physics|Lewis University    |
