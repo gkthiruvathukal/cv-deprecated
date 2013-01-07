@@ -1,23 +1,31 @@
 # University Service
 
-## University Committees
+## University Service
+
+- Search Committee Chair, Computer Science, 2012-2013 (for 2014)
+
+- Member, Faculty Council, 2012-Present
 
 - Search Committee, School of Communication, 2010, resulted in the hire of Meghan Dougherty, Assistant Professor of Communication.
-- Search Committee, Non-Tenure Track Position in Digital Humanities (for the new MA in Digital Humanities program).
-- Member, New Content Management System Selection Committee, 2010. Resulted in the selection of the Terminal Four CMS for university web sites.
-- Member, Research Data Center Steering Committee, new in 2010.
-- Member, Finance UPC, new in AY 2010-2011.
-- Member, Institutional Repositories Advisory Committee (Libraries), new in AY 2010-2011. Resulted in the selection and deployment of the Loyola eCommons.
 
-## Departmental Service
+- Search Committee, Non-Tenure Track Position in Digital Humanities (for the new MA in Digital Humanities program).
+
+- Member, New Content Management System Selection Committee, 2010. Resulted in the selection of the Terminal Four CMS for university web sites.
+
+- Member, Research Data Center Steering Committee, since 2010
+
+- Member, Institutional Repositories Advisory Committee (Libraries), new in AY 2010-2011. Resulted in the selection and deployment of the Loyola eCommons.
 
 ## Department Service
 
--   Undergraduate Program Director, Spring 2004
--   Graduate Program Director, Summer 2004–Present
--   Undergraduate Curriculum Reform Initiative, 2004–Present
--   Graduate Curriculum Reform Initiative, 2004–Present
--   Water Tower Campus Planning Committee, 2004
--   Computing Committee Chairperson and Laboratory Director,
-    2003–Present
--   ACM Chapter Advisor, 2004-2005
+- Computing Committee Chairperson and Laboratory Director, since 2003. (No load reduction or supplemental salary is received for this important role.)
+
+- Co-Editor in Chief, Web Site, <http://www.cs.luc.edu>.
+
+- Faculty Advisor, Free/Open Source Software at Loyola, <http://www.fossal.org/>, since 2008.
+
+- Undergraduate Curriculum Committee (Chair): Produced a proposal to revise the undergraduate majors and bring them into alignment with the ACM Computing Curricula.
+
+- Faculty Evaluation/Appraisal Evaluation Committee, AY 2012-2013.
+
+- Co-Director, Center for Textual Studies and Digital Humanities, since 2009.
