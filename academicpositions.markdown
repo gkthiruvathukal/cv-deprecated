@@ -1,28 +1,29 @@
 # Academic Appointments
 
-+---------------+-------------------------+-------------------------+
-|2011-Present   |Professor of Computer    |Loyola University Chicago|
-|               |Science                  |                         |
-+---------------+-------------------------+-------------------------+
-|2010-Present   |Co-Director, Center for  |Loyola University Chicago|
-|               |Textual Studies and      |                         |
-|               |Digital Humanities       |                         |
-+---------------+-------------------------+-------------------------+
-|2004-2010      |Associate Professor of   |Loyola University Chicago|
-|               |Computer Science         |                         |
-+---------------+-------------------------+-------------------------+
-|1999-2008      |Visiting Scholar in      |Northwestern University  |
-|               |Electrical and Computer  |                         |
-|               |Engineering              |                         |
-+---------------+-------------------------+-------------------------+
-|1998-1999      |Visiting Assistant       |Loyola University Chicago| 
-|               |Professor of Computer    |                         |
-|               |Science                  |                         |
-+---------------+-------------------------+-------------------------+
-|1996-1998      |Postdoctoral Computer    |Argonne National         |
-|               |Scientist                |Laboratory MCS Division  |
-+---------------+-------------------------+-------------------------+
-|1996-1997      |Lecturer of Computer     |Illinois Institute of    |
-|               |Scientist                |Technology               |
-+---------------+-------------------------+-------------------------+
+2011-
+  ~ *Professor of Computer Science*, Loyola University Chicago
+
+2010-
+  ~ *Co-Director*, Center for Textual Studies/Digital Humanities, Loyola University Chicago
+
+2012-
+  ~ *Adjuct Profesor of Computer Science/Engineering*, Northwestern University
+
+2004-2010
+  ~ *Associate Professor of Compuer Science*, Loyola University Chicago
+
+2001-2004
+  ~ *Visiting Associate Professor of Computer Science*, Loyola University Chicago
+
+1999-2008
+  ~ *Visiting Scholar of Computer Science/Engineering*, Northwestern University
+
+1998-1999
+  ~ *Visiting Assistant Professor of Computer Science*, Loyola University Chicago
+
+1996-1998
+  ~ *Postdoctoral Computer Scientist*, Argonne National Laboratory/University of Chicago
+
+1996-1997
+  ~ *Lecturer of Computer Science*, Illinois Institute of Technology
 

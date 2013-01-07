@@ -1,0 +1,409 @@
+% Self-Appraisal 2012
+% George K. Thiruvathukal
+
+# Teaching
+
+## Evaluations
+
+### COMP 336-436 (Markup Languages) Spring 2012
+
+- *TCEs:* 11
+- *Enrollments:* 23
+- *Course Rating:* 4.54/5.0
+- *Instructor Rating:* 9.0/10.0
+- *GPA:* 3.7
+
+### COMP 170 (Introduction to Computer Science) Spring 2012
+
+- *TCEs:* 20
+- *Enrollments:* 28
+- *Course Rating:* 4.05/5.0
+- *Instructor Rating:* 8.5/10
+- *GPA:* 3.47
+
+### COMP 170 (Introduction to Computer Science) Fall 2012
+
+- *TCEs:* 11
+- *Enrollments:* 18
+- *Course Rating:* 5.0/5.0
+- *Instructor Rating:* 9.7/10.0
+- *GPA:* 3.95
+
+## Innovations in AY 2011-2012
+
+## Other Evidence of Teaching Effectiveness
+
+- Committed to the university mantra of preparing students to lead extraordinary lives. My teaching covers the complete spectrum from core knowledge to the advanced theory and practice of computer science.
+
+- Courses taught in a hybrid in-class/online form. Instructor and all course materials are highly available to students through the effective use of technology, including instant messaging (chat), email, threaded discussions, course management software (Blackboard), and the web (via Google Code). 
+
+- Placement of strong emphasis on agile software development methodology and the use of open standards. My approach emphasizes language-independent thinking, which I believe positions students well for job opportunities. 
+
+- Placement of strong emphasis on literate programming, where students enrolled in computing courses are fully expected to master the art of documentation and dissemination. Despite the significant amount of additional work to students in my upper-division classes, the course evaluations have been largely unaffected, because students know that real-world CS opportunities will demand technical writing skills.
+
+- Frequently received feedback from students who have entered the workforce on how the knowledge and skills acquired through my courses have helped them compete in the job market and perform in their new positions. Similar feedback received from employers. 
+
+- Students who have taken my courses are highly successful at getting placed in Ph.D. programs, internships and permanent positions. My NSF and other extramural grants have supported all recent graduates from our department to be admitted to Ph.D. programs (Matt Bone, Peter Aarested, and Chris Bun), including many students who were worthy of pursuing a Ph.D. (e.g. Benjamin Gonzalez). 
+
+- Making innovative and effective use of professional networking sites LinkedIn and Facebook through public profiles on these sites to remain in touch with alumni and support their placement efforts.
+Involvement of respected guest lecturers in my courses (e.g. Brian Fitzpatrick from Google, Curtis Tuckey from Oracle Corporation, and Gregor von Laszewski from Indiana University).
+
+- Many alumni now working in the industry are frequent guest lecturers in my senior and graduate level courses.
+
+- Key contributor to the new MA in Digital Humanities/Textual Studies. 
+
+## Independent Study and Research Students
+
+The following students are working on independent study/research projects, which in many cases are jointly supervised by myself and Dr. Läufer:
+
+### Spring 2012
+
+Undergraduates
+- Kevin Greene
+- *Benjamin Pellittieri* worked on a Python library to support the Standoff Markup data model.
+- Zac Schaefer
+- George Vassels
+
+Graduates
+- Martin Bradley
+- *Eyad Fallatah* worked on the Standoff Markup web based editor, written in PHP+JavaScript and deployed at <http://standoffmarkup.org>.
+- *Shansuke Matsushita* worked on a proof of concept to evaluate the MonoTouch development tools for tablet app development (an alternative to working with Apple’s Objective C).
+- *Rick Schmidt* worked on a gradebook replacement based on Google Spreadsheets.
+
+### Summer 2012
+- Graham Medak
+- Abdulrahman Almatairi
+- Trevor Borg
+- Sebastian Linde, Department of Mathematics: Work on agent-based modeling in economics.
+
+### Fall 2012
+- Joe Cavallaro
+- Paul Stasiuk
+- Abdulrahman Almatairi
+- Lindsey Brockman
+- Mandy Gagel
+- Mark Malleis
+- Sheree Vasudeva
+
+## Publications with Students
+
+See the research section for a list of publications, including those published with Loyola students.
+
+## Category Rating and Summary
+
+I continue to maintain high-quality teaching and have a track record of courses that never go stale and are highly engaging to students. I also continue to pioneer innovative new courses. In addition, my teaching and research efforts are synergistic and both aspects strongly influence and enhance one another.
+
+## Final Rating
+
+5/5
+
+# Research
+
+## Projects and Papers in Progress
+
+The following are joint projects and papers with Dr. Konstantin Läufer and students the Emerging Technologies Laboratory:
+
+- Evaluation of high-level languages and frameworks for embedded Linux development
+
+- CIRFS: (universal) cross-institutional repository filesystem
+
+- Comparison of software-related failure rates of different filesystem/operating system combinations
+
+- Exploration of high-performance algorithms in the Haskell language
+
+- An integrated open-source home automation and multimedia system
+
+- A agent modeling framework for the JVM based on the Scala language
+
+- Representational state transfer and the uniform file system interface
+
+- Service-/resource-oriented architectures involving embedded/mobile devices
+
+- A comparison of various service-oriented reference architectures
+
+- Testing in the context of service-oriented architectures
+
+- Trull framework (integration of thread-based and event-loop concurrency) and Trunit (extension of - JUnit for event-based component testing)
+
+The following are joint projects and papers with the Steve Jones and Peter Shillingsburg and the Center for Digital Humanities and Textual Studies:
+
+- Presentation at the Society of Textual Studies on Jones and Thiruvathukal, Codename: Revolution, the book we are publishing with MIT Press.
+
+- Work on a new language for intuitive XML authoring and editing. See <http://standoffmarkup.org>
+
+- Continued work on collaborative tools for textual scholarship and archival projects.
+
+## Publications (2009, 2010, 2011)
+
+### Books
+
+1. Steven E. Jones and George K. Thiruvathukal, *Codename Revolution: The Nintendo Wii Platform*, MIT Press, Platform Studies Series <http://platformstudies.org>, <http://mitpress.mit.edu/books/codename-revolution>.
+
+### Open Access Lecture Notes/Courseware
+
+1. Andy Harrington and George K. Thiruvathukal, *Introduction to Computer Science using Mono and C#*, <http://introcs.cs.luc.edu>.
+
+1. Joe Kaylor and George K. Thiruvathukal, *Introduction to Operating Systems*, <http://osdi.courses.thiruvathukal.com>.
+
+### Peer-Reviewed Articles
+
+1. George K. Thiruvathukal and Jon Ross, *Gendered Jobs and the New Gender Gap*, Interdisciplinary Conference of the American Mens Studies Association (AMSA), Anne Arbor, MI, 2013. (Accepted for publication/presentation.)
+
+1. Dejan S. Milojicic, Martin Arlitt, Dorée Duncan Seligmann, George K. Thiruvathukal, Christian Timmerer, *Innovation Mashups: Academic Rigor Meets Social Networking Buzz*, Computer, vol. 45, no. 9, pp. 101-105, Sept. 2012, doi:10.1109/MC.2012.313, <http://doi.ieeecomputersociety.org/10.1109/MC.2012.313>
+
+1. Joseph P. Kaylor, Konstantin Läufer, George K. Thiruvathukal, *Simplifying Domain Modeling and Memory Management in User-Mode Filesystems with the NOFS Framework*, Proceedings of EIT 2012, <http://ecommons.luc.edu/cs_facpubs/62/>
+
+1. Steven E. Jones and George K. Thiruvathukal, *Platform Studies and the Construction of Game Space: The Nintendo Wii as a social platform*, <http://chicagocolloquium.org/wp-content/uploads/2011/11/dhcs2011_submission_27.pdf>.
+
+1. David Dennis, Konstantin Läufer, and George K. Thiruvathukal, *Initial experience in moving key academic department functions to social networking sites*, In Proc. 6th International Conference on Software and Data Technologies (ICSOFT) (July 2011), <http://ecommons.luc.edu/cs_facpubs/36/>.
+
+1. Steven E. Jones and George K. Thiruvathukal, *The Object of Platform Studies: Relational Materialities and the Social Platform (the case of the Nintendo Wii)*, Digital Humanities 2011 Book of Abstracts, pp. 163-164, 2011. <http://ecommons.luc.edu/cs_facpubs/28/>.
+
+1. Joe Kaylor, Konstantin Läufer, and George K. Thiruvathukal. 2011. *RestFS: resources and services are filesystems, too*. In Proceedings of the Second International Workshop on RESTful Design (WS-REST '11), Cesare Pautasso and Erik Wilde (Eds.). ACM, New York, NY, USA, 39-46,  <http://doi.acm.org/10.1145/1967428.1967439>.
+
+1. Joseph P. Kaylor, Konstantin Läufer, and George K. Thiruvathukal. *RestFS: The Filesystem as a Connector Abstraction for Flexible Resource and Service Composition*. In Cloud Computing: Methodology, System, and Applications (edited by Lizhe Wang, Rajiv Ranjan, Jinjun Chen, Boualem Benatallah), CRC Press, Boca Raton, Florida, USA, September 2011, <http://ecommons.luc.edu/cs_facpubs/45/>.
+
+1. Joseph P. Kaylor, Konstantin Läufer, George K. Thiruvathukal, *REST on Routers? Preliminary Lessons for Language Designers, Framework Architects, and App Developers*, In Proc. 6th International Conference on Software and Data Technologies (ICSOFT) (July 2011), <http://ecommons.luc.edu/cs_facpubs/35/>.
+
+1. Konstantin Läufer, Chandra N. Sekharan, and George K. Thiruvathukal, *PDC Modules for Every Level: A Comprehensive Model for Incorporating PDC Topics into the Existing Undergraduate Curriculum*, In 1st NSF/TCPP Workshop on Parallel and Distributed Computing Education (EduPar), May 2011, <http://ecommons.luc.edu/cs_facpubs/53/>.
+
+1. Joe Kaylor, Konstantin Läufer, and George K. Thiruvathukal, Online Layered File System (OLFS): A layered and versioned filesystem and performance analysi, In Proceedings of Electro/Information Technology 2010 (EIT 2010), <http://ecommons.luc.edu/cs_facpubs/40/>.
+
+1. Steven E. Jones, Peter Shillingsburg, and George K. Thiruvathukal. *E-Carrel: An Environment for Collaborative Textual Scholarship*. Journal of the Chicago Colloquium on Digital Humanities and Computer Science 1, no. 2 (June 16, 2010), <http://ecommons.luc.edu/cs_facpubs/1/>.
+
+### Other Journals
+
+1. George K. Thiruvathukal, "Accelerating Learning with Distance Education and Open Courseware," Computing in Science and Engineering, vol. 14, no. 4, pp. 4-5, July-Aug. 2012, doi:10.1109/MCSE.2012.70, <http://doi.ieeecomputersociety.org/10.1109/MCSE.2012.70>
+
+1. George K. Thiruvathukal, "Digging into Data," Computing in Science and Engineering, vol. 14, no. 2, pp. 4-5, March-April 2012, doi:10.1109/MCSE.2012.22, <http://doi.ieeecomputersociety.org/10.1109/MCSE.2012.22>.
+
+1. George K. Thiruvathukal, *An Exceptionally Useful Exploration*, Computing in Science and Engineering, vol. 13, no. 1, pp. 5-8, Jan./Feb. 2011, doi:10.1109/MCSE.2011.3, <http://ecommons.luc.edu/cs_facpubs/20/>.
+
+1. George K. Thiruvathukal, *Beyond CiSE and Back to the Future*, Computing in Science and Engineering, vol. 13, no. 3, pp. 4-5, May/June 2011, doi:10.1109/MCSE.2011.44, <http://ecommons.luc.edu/cs_facpubs/18/>.
+
+1. George K. Thiruvathukal, *Novel Architectures and Accelerators*, Computing Now, http://www.computer.org/portal/web/computingnow/archive/february2011, <http://ecommons.luc.edu/cs_facpubs/54/>.
+
+1. Konstantin Läufer, George K. Thiruvathukal, David Dennis, *Moving Academic Department Functions to Social Networks and Clouds: Initial Experiences*, Computing in Science and Engineering, vol. 13, no. 5, pp. 84-89, Sep./Oct. 2011, doi:10.1109/MCSE.2011.85, <http://ecommons.luc.edu/cs_facpubs/19/>.
+
+1. George K. Thiruvathukal, *Your Local Cloud-Enabled Library*, Computing in Science and Engineering, vol. 12, no. 4, pp. 5-6, July/Aug. 2010, doi:10.1109/MCSE.2010.94, <http://ecommons.luc.edu/cs_facpubs/17/>.
+
+1. George K. Thiruvathukal, Konrad Hinsen, Konstantin Laufer, Joe Kaylor, *Virtualization for Computational Scientists*, Computing in Science and Engineering, pp. 52-61, July/August, 2010, <http://ecommons.luc.edu/cs_facpubs/16/>.
+
+
+### Technical Reports via eCommons
+
+1. Joe Kaylor, Konstantin Läufer, and George K. Thiruvathukal, *Naked Object File System (NOFS): A Framework to Expose an Object-Oriented Domain Model as a File System*, May 2010, <http://ecommons.luc.edu/cs_facpubs/6/>.
+
+## Recent International Invitations
+
+- Invitation to speak at CE21/BPC on the Special Interest Group in Broadening Participation and new effort within the IEEE Computer Society, January 2012.
+
+- Invited talk and session organizer at Jadavpur University, Kolkata, India, February 2012.
+
+## Invited Talks
+
+- IIT
+- DePaul
+- Scientific Software Days
+
+## Open-Source Software Releases
+
+I'm active in a number of personal/group software development efforts, mostly in the areas of languages, systems, libraries, and tools.
+
+- http://github.com/gkthiruvathukal
+
+- http://bitbucket.org/gkthiruvathukal
+
+- http://code.google.com/u/thiruvathukal
+
+## Impact/Citations
+
+~400 Citations in Google Scholar as of January 2012, <http://scholar.google.com/citations?user=Ls7yS0IAAAAJ&hl=en>
+
+## Extramural Funding
+
+- Submitted 2012: George K. Thiruvathukal, Konstantin Läufer, and Catherine Putonti, CSR: Small: RestFS: Filesystems as Stable Connectors for Web Service Composition and Interoperability, ~$500,000. *Declined.*
+
+- Submitted 2011: George K. Thiruvathukal, Konstantin Läufer, and Catherine Putonti, SHF: Small: RestFS: Filesystems as Stable Connectors for Web Service Composition and Interoperability, ~$500,000. *Declined.*
+
+- Awarded 2011: Dalberg (PI, UNC Charlotte) and Thiruvathukal (PI, LUC), Collaborative Research: BPC-LSA: ACM SIGBP: Forming an ACM Special Interest Group to Scale the Impact of BPC Activities, $38,782 (to Loyola University Chicago)
+
+## Intramural Funding
+
+- Awarded 2012: G.K. Thiruvathukal, Research Stimulation, $5000.
+
+## Category Rating and Summary
+
+This has been another exceptionally strong year for me in research output, both in terms of computer science and in my fruitful collaboratoin in digital humanities and textual studies. In addition, progress continues on our CUERP work, despite the lack of funding for this project and some leadership changes. We’re well poised for future funding in the systems/languages/frameworks area and digital humanities.
+
+## Final Rating
+
+5/5
+
+# Service
+
+## Peer Reviewing and Conference Committees
+
+Program Committee, ICSoft 2009 and 2010
+Program Committee, Cloud Computing 2010
+
+## Panel Service
+
+- I have served on multiple panels at the National Science Foundation and the National Endowment for the Humanities. In Summer 2010, I was asked to serve on three NSF panels but was only able to serve on two of them.
+
+- I may have the distinction of being one of the few people at Loyola ever to serve on panels at both NEH and NSF, especially in the same year.
+
+## Other Professional Service
+
+- Editor in Chief, Computing in Science and Engineering, Term 2013-2016, <http://www.computer.org/cise>.
+
+- Associate Editor-in-Chief  for IEEE Computing Now, 2009-Present, <http://computingnow.computer.org/>.
+
+- At Large Member, IEEE Computer Society Publications Board, since 2010. (This is one of the higest governing body in the Computer Society that oversees all publications, including magazines and transactions.)
+
+- Co-Chair, Special Technical Community on Social Networking, since 2012.
+
+## University Service
+
+- Search Committee Chair, Computer Science, 2012-2013 (for 2014)
+
+- Member, Faculty Council, 2012-Present
+
+- Search Committee, School of Communication, 2010, resulted in the hire of Meghan Dougherty, Assistant Professor of Communication.
+
+- Search Committee, Non-Tenure Track Position in Digital Humanities (for the new MA in Digital Humanities program).
+
+- Member, New Content Management System Selection Committee, 2010. Resulted in the selection of the Terminal Four CMS for university web sites.
+
+- Member, Research Data Center Steering Committee, since 2010
+
+- Member, Institutional Repositories Advisory Committee (Libraries), new in AY 2010-2011. Resulted in the selection and deployment of the Loyola eCommons.
+
+## Department Service
+
+- Computing Committee Chairperson and Laboratory Director, since 2003. (No load reduction or supplemental salary is received for this important role.)
+
+- Co-Editor in Chief, Web Site, <http://www.cs.luc.edu>.
+
+- Faculty Advisor, Free/Open Source Software at Loyola, <http://www.fossal.org/>, since 2008.
+
+- Undergraduate Curriculum Committee (Chair): Produced a proposal to revise the undergraduate majors and bring them into alignment with the ACM Computing Curricula.
+
+- Faculty Evaluation/Appraisal Evaluation Committee, AY 2012-2013.
+
+- Co-Director, Center for Textual Studies and Digital Humanities, since 2009.
+
+## Category Rating and Summary
+
+This has been a particularly demanding year for my time in terms of service. I have been called upon to perform strategic service that has resulted in many meetings and significant time outside of work hours. In addition, my service spans multiple areas of the university, including the department, the new center, ITS, the library, and (most recently) university policy committees. I continue to lead and innovate our departmental computing and supervise Miao, often during evenings (owing to my demands at both campuses). It is a workload I can handle, and I think I am doing an exceptional job in areas that are of vital importance to the department, the center, and the university. My service to NSF and IEEE this year has also been an excellent example of my commitment to professional service as well.
+
+## Final Rating
+
+5/5
+
+# Professional Goals for Current Calendar Year
+
+## Teaching
+
+- Working on new curriculum for COMP 170, our foundational introduction course for all departmental majors
+
+## Research and Scholarship
+
+My key goal in this area is further to increase the amount of external funding. The above-mentioned proposal submissions, publications, and ongoing research work are expected to help with this goal. I also plan to continue my research in these areas: 
+collaboration with Dr. Läufer in service- and resource-oriented architectures involving embedded/mobile devices 
+multidisciplinary collaborations with the Center for Textual Studies and Digital Humanties (Drs. Jones and Shillingsburg) and the Loyola University Medical Center (Preventive Medicine/Epidemiology, Drs. Luke and Shoham) 
+collaboration with Dr. Läufer on Trull (integration of thread-based and event-loop concurrency) and Trunit (extension of JUnit for event-based component testing) frameworks 
+collaboration with Dr. Läufer on testing in the context of service-oriented architectures 
+continued work on layered/versioned filesystems with Mr. Joe Kaylor and Dr. Läufer 
+
+## Departmental, College, and University Service
+
+Further service on the following committees: 
+
+- Research Data Center (RDC) Planning Committee 
+- Continued support of departmental computing needs as director and member of the departmental computing committee. 
+- Helping the department with various proposals (thesis options and centers). Specifically, I want to work on getting a thesis option added to the M.S. program (for high merit students) and reconvene the planning committee exploring an interdisciplinary Ph.D. in Computational Science and Informatics. 
+- Helping with transfer/articulation requests as part of the distributed UPD role. I’ve been doing these since November 2010.
+- Institutional repositories (eCommons) committee, Libraries
+
+Continued work on multidisciplinary initiatives between CS and other departments: 
+
+- Digital Humanities and Textual Studies: Collaborating with Profs. Steve Jones, Peter Shillingsburg, and Allen Frantzen on various projects and the proposed center. We are developing collaborative software tools for digital humanities and textual studies projects as part of our new NEH challenge grant. 
+- Biological Sciences: Collaborating with David Treering on the Chicago Clean Air, Clean Water data warehouse.
+
+
+# Final Evaluation
+
+## Faculty Member's & Chair’s Assessment - Teaching
+
+### Faculty Member Rating
+
+5/5
+
+### Chair Rating
+
+5/5
+
+### Chair Comments
+
+
+
+### Faculty Member's Comments
+
+This has been another solid year in teaching. I continue to pioneer the development of innovative curriculum using commensurately innovative delivery methods. With Andy Harrington, we have become the first faculty members in the department’s history to offer a full textbook to all students who take COMP 170, which replaced a \$125 textbook. 
+
+In addition, the work I am doing with teaching is a valuable demonstration project for the university as higher education faces the disruptive challenge of open courseware. I’m working to ensure that every course I teach has its own textbook, notes, and accompanying videos for hybrid and online offerings.
+
+## Faculty Member's & Chair’s Assessment - Research
+
+### Faculty Member Rating
+
+5/5
+
+### Chair Rating
+
+5/5
+
+### Chair Comments
+
+
+### Faculty Member's Comments
+
+Research and scholarship continues to be a vital component as a faculty member at Loyola University Chicago. I’ve maintained a strong publication record in terms of peer-reviewed papers, books, and other journals that are recognized in my field—among other fields. 
+
+A testament to my research reputation is my recent appointment as the Editor in Chief of Computing in Science and Engineering, which is grounded in my disciplinary interests of high performance computing and my interdisciplinary interests in scientific computing.
+
+I have also seen a spike of outside interest my research with a number of invited talks over the past few years. I’ve spoken at a number of major Chicago-area universities (DePaul, IIT, and Northwestern) and recently at the University of Texas. I expect this to continue as my joint research with Dr. Läufer and Joe Kaylor (in the Emerging Technologies Laboratory) and in the Center for Textual Studies and Digital Humanities gains greater visibility.
+
+## Faculty Member's & Chair’s Assessment - Service
+
+### Faculty Member Rating
+
+5/5
+
+### Chair Rating
+
+### Chair Comments
+
+
+### Faculty Member's Comments
+
+I’m particularly proud of my work in this category. As full professor, I have not taken the matter of service lightly. In fact, I worry slightly that I am taking on too much service but find it hard to say no during such great times of need for inspired and energetic leaders.
+
+That said, I do feel a need to note that some of the service I do is way above and beyond what is required for a faculty member at any rank. As the computing director, I spend a substantial amount of time managing Miao Ye and working to ensure the department computing infrastructure is up to snuff for a 21st Century CS department. This cannot happen if we rely exclusively on university IT, because many of our needs are unique. I do feel rather strongly that the Computing Director role should be recognized by the university and the college as being vital not only to serving our students but to ensure that no Loyola students are left behind when it comes to technological literacy. Having served the department for nearly a decade, I do believe that this role should have some compensation in the form of a stipend or extra internal funding to support work/study students or TAs under Miao’s and my supervision. I note for documentation purposes that system and network administration experts with my level of knowledge are paid more than $150K/year—if it were their only job. This work at least takes 10-15% of my time so one can do the math to figure out an appropriate compensation model.
+
+While I zeroed in on the computing director role, I am involved in many other areas: committees, searches, councils, etc. I do all of them well.
+
+## Totals
+
+### Total
+
+15/15
+
+### Chair Rating
+
+15/15
+
+### Summary Statement
+
+I feel rather strongly that this is one of the best years I have experienced at Loyola University Chicago as a faculty member. I’m proud of the work I have done and believe that the best is yet to come. Regardless of the raise I receive, I feel that the perfect score of 15/15 is completely justified and am not planning on doing anything but my best work in the years to come.

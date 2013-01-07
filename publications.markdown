@@ -27,6 +27,10 @@ publishing tools.
 
 This list includes publications from 2009-2011. See <http://works.bepress.com/gkthiruvathukal> for all publications.
 
+1. Dejan S. Milojicic, Martin Arlitt, Dorée Duncan Seligmann, George K. Thiruvathukal, Christian Timmerer, *Innovation Mashups: Academic Rigor Meets Social Networking Buzz*, Computer, vol. 45, no. 9, pp. 101-105, Sept. 2012, doi:10.1109/MC.2012.313, <http://doi.ieeecomputersociety.org/10.1109/MC.2012.313>
+
+1. Joseph P. Kaylor, Konstantin Läufer, George K. Thiruvathukal, *Simplifying Domain Modeling and Memory Management in User-Mode Filesystems with the NOFS Framework*, Proceedings of EIT 2012, <http://ecommons.luc.edu/cs_facpubs/62/>
+
 1. Steven E. Jones and George K. Thiruvathukal, *Platform Studies and the Construction of Game Space: The Nintendo Wii as a social platform*, <http://chicagocolloquium.org/wp-content/uploads/2011/11/dhcs2011_submission_27.pdf>.
 
 1. David Dennis, Konstantin Läufer, and George K. Thiruvathukal, *Initial experience in moving key academic department functions to social networking sites*, In Proc. 6th International Conference on Software and Data Technologies (ICSOFT) (July 2011), <http://ecommons.luc.edu/cs_facpubs/36/>.
@@ -75,3 +79,8 @@ This list includes publications from 2009-2011. See <http://works.bepress.com/gk
 ## Technical Reports via eCommons
 
 1. Joe Kaylor, Konstantin Läufer, and George K. Thiruvathukal, *Naked Object File System (NOFS): A Framework to Expose an Object-Oriented Domain Model as a File System*, May 2010, <http://ecommons.luc.edu/cs_facpubs/6/>.
+
+## Google Scholar
+
+See <http://bit.ly/gkt-scholar-google-com> for a summary of citation impact (currently >= 400 citations).
+
