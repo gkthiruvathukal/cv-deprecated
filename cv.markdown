@@ -5,73 +5,71 @@
 
 # Preparation
 
-+---------------+-------------------------+-------------------------+
-|1988           |B.A. in Computer Science |Lewis University         |
-|               |and Physics (Mathematics |                         |
-|               |minor)                   |                         |
-+---------------+-------------------------+-------------------------+
-|1990           |M.S. in Computer Science |Illinois Institute       |
-|               |                         |of Technology            |
-+---------------+-------------------------+-------------------------+
-|1995           |Ph.D. in Computer Science|Illinois Institute       |
-|               |                         |of Technology            |
-+---------------+-------------------------+-------------------------+
+
+1995
+  ~ *Ph.D. in Computer Science*, Illinois Institute of Technology
+
+1990
+  ~ *M.S. in Computer Science*, Illinois Institute of Technology
+
+1988
+  ~ *B.A. in Computer Science and Physics*, Mathematics Minor, Lewis University
+
+1985
+  ~ *Diploma*, Decatur High School, Federal Way, Washington
 
 # Experience
 
 ## Academic Positions
 
-+---------------+-------------------------+-------------------------+
-|2011-Present   |Professor of Computer    |Loyola University Chicago|
-|               |Science                  |                         |
-+---------------+-------------------------+-------------------------+
-|2010-Present   |Co-Director, Center for  |Loyola University Chicago|
-|               |Textual Studies and      |                         |
-|               |Digital Humanities       |                         |
-+---------------+-------------------------+-------------------------+
-|2004-2010      |Associate Professor of   |Loyola University Chicago|
-|               |Computer Science         |                         |
-+---------------+-------------------------+-------------------------+
-|2001-2004      |Visiting Associate       |Loyola University Chicago| 
-|               |Professor of Computer    |                         |
-|               |Science                  |                         |
-+---------------+-------------------------+-------------------------+
-|1999-2008      |Visiting Scholar in      |Northwestern University  |
-|               |Electrical and Computer  |                         |
-|               |Engineering              |                         |
-+---------------+-------------------------+-------------------------+
-|1998-1999      |Visiting Assistant       |Loyola University Chicago| 
-|               |Professor of Computer    |                         |
-|               |Science                  |                         |
-+---------------+-------------------------+-------------------------+
-|1996-1998      |Postdoctoral Computer    |Argonne National         |
-|               |Scientist                |Laboratory MCS Division  |
-+---------------+-------------------------+-------------------------+
-|1996-1997      |Lecturer of Computer     |Illinois Institute of    |
-|               |Scientis                 |Technology               |
-+---------------+-------------------------+-------------------------+
+2011-
+  ~ *Professor of Computer Science*, Loyola University Chicago
+
+2010-
+  ~ *Co-Director*, Center for Textual Studies/Digital Humanities, Loyola University Chicago
+
+2012-
+  ~ *Adjuct Profesor of Computer Science/Engineering*, Northwestern University
+
+2004-2010
+  ~ *Associate Professor of Compuer Science*, Loyola University Chicago
+
+2001-2004
+  ~ *Visiting Associate Professor of Computer Science*, Loyola University Chicago
+
+1999-2008
+  ~ *Visiting Scholar of Computer Science/Engineering*, Northwestern University
+
+1998-1999
+  ~ *Visiting Assistant Professor of Computer Science*, Loyola University Chicago
+
+1996-1998
+  ~ *Postdoctoral Computer Scientist*, Argonne National Laboratory/University of Chicago
+
+1996-1997
+  ~ *Lecturer of Computer Science*, Illinois Institute of Technology
 
 ## Industry Positions
 
-+---------------+-------------------------+-------------------------+
-|1995-1996      |Development Manager      |R.R. Donnelley and Sons  |
-|               |                         |Metromail Division       |
-|               |                         |                         |
-+---------------+-------------------------+-------------------------+
-|1993-1995      |Senior Member of         |R.R. Donnelley and Sons  |
-|               |Technical Staff          |Technical Center         |
-|               |                         |                         |
-+---------------+-------------------------+-------------------------+
-|1991-1993      |Member of Technical      |Tellabs                  |
-|               |Staff                    |                         |
-+---------------+-------------------------+-------------------------+
+1995-1996
+  ~ *Development Manager*, R.R. Donnelley and Sons, Metromail Division
+
+1993-1995
+  ~ *Senior Member of Technical Staff*, R.R. Donnelley and Sons, Technical Center
+
+1991-1993
+  ~ *Member of Technical Staff*, Tellabs, Lisle, Illinois
 
 <!-- small business concenrs? -->
 
 # Academic Recognition
 
+1988
+  ~ Departmental Excellence Award in Computer Science, Lewis University
+  ~ College of Arts and Sciences Excellence Award, Lewis University
+
 1989-1990
-  ~ Argonne National Laboratory Graduate Scholars Program, Environmental
+  ~ Argonne National Laboratory Graduate Scholar, Environmental
     and Information Sciences Division
 
 1988-1994
@@ -82,20 +80,18 @@
     Laboratory, Mathematics and Computer Science Division (one of 26
     students selected competitively from a national pool of nearly 90
     pre-Ph.D. graduate students)
-	
-# Dissertation
-
-Title
-  ~ An Enhanced Actors Model for Parallel and Distributed Processing
-
-Advisor
-  ~ Professor Thomas W. Christopher
   
 # Publications
 
 This list includes publications from 2009-2011. See <http://works.bepress.com/gkthiruvathukal> for all publications.
 
+## Books
+
+1. Steven E. Jones and George K. Thiruvathukal, *Codename Revolution: The Nintendo Wii Platform*, MIT Press, 2012.
+
 ## Peer-Reviewed Conference Proceedings
+
+1. Jon Ross and George K. Thiruvathukal, *Gendered Jobs and the New Gender Gap*, 2013 Annual Interdisciplinary Conference of the American Men's Studies Association (AMSA), Ann Arbor, Michigan from April 4-7, 2013.
 
 1. Steven E. Jones and George K. Thiruvathukal, *Platform Studies and the Construction of Game Space: The Nintendo Wii as a social platform*, <http://chicagocolloquium.org/wp-content/uploads/2011/11/dhcs2011_submission_27.pdf>.
 
@@ -232,8 +228,4 @@ Awarded 2010, S. Jones, G. K. Thiruvathukal, E. English, and …, Digitizing the
 
 # Open-Source Software Releases
 
-My entire list of projects is at http://thiruvathukal.com. Here are some highlights:
-
-- High-Performance Java Platform Computing, <http://hpjpc.googlecode.com>. The PDF book has been downloaded 2,327 times (without even being announced). The Java examples have been downloaded 1,000 times; C# examples about 300 times. I have also been contacted by Michael Phillippsen in Germany to obtain the 0/1 Knapsack and other example codes for use in his High Performance Computing class. 
-- Better XML, <http://betterxml.googlecode.com>. We have not done a public release of this software yet but the paper and presentation have been downloaded 120 and 223 times, respectively, again with no publicity. 
-- Layered/versioned filesytems, http://olfs.googlecode.com. This is an active project with Kaylor, Läufer, and Thiruvathukal that is scheduled for a first beta release this year. We expect this project to have very high impact. This project allows you to keep multiple versions (generations) of files without having to rename them, so it is easy to understand the benefits, even for a non-computing person!  
+- See <http://github.com/gkthiruvathukal>, <http://bitbucket.org/gkthiruvathukal>, and <http://code.google.com/u/thiruvathukal>.
