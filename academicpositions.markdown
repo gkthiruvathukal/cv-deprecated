@@ -7,7 +7,7 @@
   ~ *Co-Director*, Center for Textual Studies/Digital Humanities, Loyola University Chicago
 
 2012-
-  ~ *Adjuct Profesor of Computer Science/Engineering*, Northwestern University
+  ~ *Adjuct Profesor of Computer Science/Engineering*, Northwestern University (Affiliated)
 
 2004-2010
   ~ *Associate Professor of Compuer Science*, Loyola University Chicago
@@ -16,7 +16,10 @@
   ~ *Visiting Associate Professor of Computer Science*, Loyola University Chicago
 
 1999-2008
-  ~ *Visiting Scholar of Computer Science/Engineering*, Northwestern University
+  ~ *Visiting Scholar of Computer Science/Engineering*, Northwestern University (Affiliated)
+
+1999-2000
+  ~ *Assistant Professor of Computer Science*, DePaul University
 
 1998-1999
   ~ *Visiting Assistant Professor of Computer Science*, Loyola University Chicago

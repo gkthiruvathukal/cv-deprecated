@@ -9,7 +9,6 @@
 
 - *TCEs:* 11
 - *Enrollments:* 23
-- *Course Rating:* 4.54/5.0
 - *Instructor Rating:* 9.0/10.0
 - *GPA:* 3.7
 
@@ -17,7 +16,6 @@
 
 - *TCEs:* 20
 - *Enrollments:* 28
-- *Course Rating:* 4.05/5.0
 - *Instructor Rating:* 8.5/10
 - *GPA:* 3.47
 
@@ -25,7 +23,6 @@
 
 - *TCEs:* 11
 - *Enrollments:* 18
-- *Course Rating:* 5.0/5.0
 - *Instructor Rating:* 9.7/10.0
 - *GPA:* 3.95
 
@@ -59,7 +56,7 @@ The following students are working on independent study/research projects, which
 ### Spring 2012
 
 Undergraduates
-- Kevin Greene
+- *Kevin Greene* worked on domain-specific filesystems for NOFS (proof of concept)
 - *Benjamin Pellittieri* worked on a Python library to support the Standoff Markup data model.
 - Zac Schaefer
 - George Vassels
@@ -181,7 +178,7 @@ The following are joint projects and papers with the Steve Jones and Peter Shill
 
 1. George K. Thiruvathukal, *Beyond CiSE and Back to the Future*, Computing in Science and Engineering, vol. 13, no. 3, pp. 4-5, May/June 2011, doi:10.1109/MCSE.2011.44, <http://ecommons.luc.edu/cs_facpubs/18/>.
 
-1. George K. Thiruvathukal, *Novel Architectures and Accelerators*, Computing Now, http://www.computer.org/portal/web/computingnow/archive/february2011, <http://ecommons.luc.edu/cs_facpubs/54/>.
+1. George K. Thiruvathukal, *Novel Architectures and Accelerators*, Computing Now, <http://www.computer.org/portal/web/computingnow/archive/february2011>, <http://ecommons.luc.edu/cs_facpubs/54/>.
 
 1. Konstantin Läufer, George K. Thiruvathukal, David Dennis, *Moving Academic Department Functions to Social Networks and Clouds: Initial Experiences*, Computing in Science and Engineering, vol. 13, no. 5, pp. 84-89, Sep./Oct. 2011, doi:10.1109/MCSE.2011.85, <http://ecommons.luc.edu/cs_facpubs/19/>.
 
@@ -210,15 +207,15 @@ The following are joint projects and papers with the Steve Jones and Peter Shill
 
 I'm active in a number of personal/group software development efforts, mostly in the areas of languages, systems, libraries, and tools.
 
-- http://github.com/gkthiruvathukal
+- <http://github.com/gkthiruvathukal>
 
-- http://bitbucket.org/gkthiruvathukal
+- <http://bitbucket.org/gkthiruvathukal>
 
-- http://code.google.com/u/thiruvathukal
+- <http://code.google.com/u/thiruvathukal>
 
 ## Impact/Citations
 
-~400 Citations in Google Scholar as of January 2012, <http://scholar.google.com/citations?user=Ls7yS0IAAAAJ&hl=en>
+>= 400 Citations in Google Scholar as of January 2012, <http://scholar.google.com/citations?user=Ls7yS0IAAAAJ&hl=en>
 
 ## Extramural Funding
 
@@ -371,7 +368,7 @@ In addition, the work I am doing with teaching is a valuable demonstration proje
 
 Research and scholarship continues to be a vital component as a faculty member at Loyola University Chicago. I’ve maintained a strong publication record in terms of peer-reviewed papers, books, and other journals that are recognized in my field—among other fields. 
 
-A testament to my research reputation is my recent appointment as the Editor in Chief of Computing in Science and Engineering, which is grounded in my disciplinary interests of high performance computing and my interdisciplinary interests in scientific computing.
+A testament to my growing research impact is my recent appointment as the Editor in Chief of Computing in Science and Engineering, which is grounded in my disciplinary interests of high performance computing and my interdisciplinary interests in scientific computing.
 
 I have also seen a spike of outside interest my research with a number of invited talks over the past few years. I’ve spoken at a number of major Chicago-area universities (DePaul, IIT, and Northwestern) and recently at the University of Texas. I expect this to continue as my joint research with Dr. Läufer and Joe Kaylor (in the Emerging Technologies Laboratory) and in the Center for Textual Studies and Digital Humanities gains greater visibility.
 
