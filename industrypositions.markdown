@@ -1,5 +1,8 @@
 # Industry Positions
 
+2002-2004
+  ~ *President and CEO*, Nimkathana Corporation, Chicago, IL
+
 1995-1996
   ~ *Development Manager*, R.R. Donnelley and Sons, Metromail Division
 
@@ -8,3 +11,4 @@
 
 1991-1993
   ~ *Member of Technical Staff*, Tellabs, Lisle, Illinois
+

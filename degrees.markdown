@@ -11,3 +11,4 @@
 
 1985
   ~ *High School Diploma*, Decatur High School, Federal Way, Washington
+

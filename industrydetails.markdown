@@ -1,4 +1,4 @@
-# Industry Positions
+# Industry and Other Positions
 
 ## 1995-1996, Development Manager, R.R. Donnelley and Sons Co
 
