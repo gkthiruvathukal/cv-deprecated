@@ -2,13 +2,19 @@
 
 ## Peer Reviewing and Conference Committees
 
-Program Committee, ICSoft 2009 and 2010
-Program Committee, Cloud Computing 2010
+-   Program Committee, The 25th International Symposium on Computer Architecture and High Performance Computing, http://www.cin.ufpe.br/~sbac2013/sbac/
+
+-   Program Chair, Digital Humanities in Computer Science 2011, http://chicagocolloquium.org/dhcs-2011-program/
+
+-   Program Committee, ICSoft 2009 and 2010
+
+-   Program Committee, Cloud Computing 2010
 
 ## Panel Service
 
-- I have served on multiple panels at the National Science Foundation and the National Endowment for the Humanities. In Summer 2010, I was asked to serve on three NSF panels but was only able to serve on two of them.
-- I may have the distinction of being one of the few people at Loyola ever to serve on panels at both NEH and NSF, especially in the same year.
+-   National Science Foundation, Cyberinfrastructure, CISE, Education Initiatives
+
+-   National Endowment for the Humanities, Office of Digital Humanities
 
 ## Peer Reviewing/Conference Committees
 
@@ -33,10 +39,12 @@ Program Committee, Cloud Computing 2010
 
 ## Other Professional Service
 
+-   *Editor in Chief*, Computing in Science and Engineering, 2013-
+
 -   *Editorial Board*, IEEE Computing Now, 2008-Present, Regular blogger
     for IEEE’s new online portal.
 
--   Associate Editor, CISE Magazine, 2008-Present.
+-   Associate Editor, CISE Magazine, 2008-2012
 
 -   *Department Editor, CISE Magazine*, 2004-Present, Regular columnist
     and co-editor with Paul Dubois of the Scientific Programming column.
