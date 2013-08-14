@@ -5,7 +5,7 @@ cat $(cat cv.in) > build/cv.markdown
 # web pages.
 
 cat $(cat cv.in) > build/cv.markdown
-cat $(cat cv.in) | sed -e "s/^#/###/" > build/cv.jekyll.markdown
+cat $(cat cv-gkt.in) | sed -e "s/^#/###/" > build/cv.jekyll.markdown
 
 pushd build
 
