@@ -1,35 +1,24 @@
 mkdir -p build
-cat $(cat cv.in) > build/cv.markdown
-
-# Note: This drops the heading level for consistency with my other
-# web pages.
 
 cat $(cat cv.in) > build/cv.markdown
 cat $(cat cv-gkt.in) | sed -e "s/^#/###/" > build/cv.jekyll.markdown
 
 pushd build
-
-# Regular TeX PDF  Build
 pandoc --template=../fullpage.tex --variable version=1.4 cv.markdown -o cv.pdf
-
-# Word build
 pandoc cv.markdown -o cv.docx
-
-# Regular HTML build
 pandoc cv.markdown -o cv.html
 
 # Build for use with my web site.
-pandoc cv.jekyll.markdown -o cv.jekyll.html.in
-cat ../cv-yaml.in cv.jekyll.html.in > cv.jekyll.html
-rm cv.jekyll.html.in
+TMPFILE=/tmp/temp$$.html
+pandoc cv.jekyll.markdown -o $TMPFILE
+cat ../cv-yaml.in $TMPFILE > cv.jekyll.html
+rm $TMPFILE
 popd
 
-if [ -d ../thiruvathukal.com/cv ]; then
-   #cat cv-yaml.in build/cv.html > ../thiruvathukal.com/cv/cv.html
-   cp build/cv.pdf ../thiruvathukal.com/cv/cv.pdf
-fi
+# It is expected that thiruvathukal.com and cv are siblings on the deployment server
 
-BOX=~/Box\ Documents/Annual\ Faculty\ Appraisal\ and\ CV/
-if [ -d "$BOX" ]; then
-	cp build/* "$BOX"
+if [ -d ../thiruvathukal.com ]; then
+   mkdir -p ../thiruvathukal.com/cv
+   cp build/cv.jekyll.html ../thiruvathukal.com/cv/cv.html
+   cp build/cv.pdf ../thiruvathukal.com/cv/cv.pdf
 fi
