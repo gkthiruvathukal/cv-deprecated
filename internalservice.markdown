@@ -18,7 +18,7 @@
 
 ## Department Service
 
-- Computing Committee Chairperson and Laboratory Director, since 2003. (No load reduction or supplemental salary is received for this important role.)
+- Computing Committee Chairperson and Laboratory Director, since 2003.
 
 - Co-Editor in Chief, Web Site, <http://www.cs.luc.edu>.
 
