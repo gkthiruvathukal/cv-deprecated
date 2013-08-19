@@ -6,6 +6,7 @@ cat $(cat cv-gkt.in) | sed -e "s/^#/###/" > build/cv.jekyll.markdown
 pushd build
 pandoc --template=../fullpage.tex --variable version=1.4 cv.markdown -o cv.pdf
 pandoc cv.markdown -o cv.docx
+pandoc cv.markdown -o cv.odt
 pandoc cv.markdown -o cv.html
 
 # Build for use with my web site.
