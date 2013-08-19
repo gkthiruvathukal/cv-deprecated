@@ -1,3 +1,3 @@
 #!/bin/bash
 
-hg incoming && hg pull && ./build.sh && ./rsync-cv.sh
+hg incoming && hg pull && hg update && ./build.sh && ./rsync-cv.sh
